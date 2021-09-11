@@ -1,7 +1,9 @@
-1 - header/nav
-2 - footer
-3 - home
-4 - filmes infos
+1 - header/nav 
+2 - footer 
+3 - home - Gabi
+    3.1 - capa 
+    3.2 - carrossel -  Jean
+4 - filmes infos da home
     4.1 - filme 1
     4.2 - filme 2
     4.3 - filme 3
@@ -14,13 +16,8 @@
     4.10 - filme 10
     4.11 - filme 11
     4 12 - filme 12
-5 - busca de filmes
-6 - cadastro (mocked)
-7 - login
-8 - recuperação de senha
-9 - contato dos criadores
-
-Dúvidas
-    todas as páginas tem que ser criadas pelo API?
-    a busca tem que ser apenas em nosso site ou é para pesquisar os filmes que existem na API?
-    
+5 - busca de filmes - pati 
+6 - cadastro (mocked) - Elo
+7 - login (mocked) - Paulo
+8 - recuperação de senha (mocked) - Paulo 
+9 - contato dos criadores (coletivo)
