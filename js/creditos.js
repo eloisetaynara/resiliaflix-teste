@@ -1,0 +1,1 @@
+setTimeout(function(){ window.location.href='contatos.html'; }, 50000)
